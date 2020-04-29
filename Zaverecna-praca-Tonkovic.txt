@@ -1,0 +1,11 @@
+Web usage mining pomocou Open Source nástrojov
+
+ANOTÁCIA
+
+Cie¾ bakalárskej práce: autor sa zorientuje v dostupných možnostiach Open Source nástrojov na web usage mining (WUM),
+tj. dolovanie dát o správaní sa používate¾ov webu. 
+S využitím reálnych dát aplikuje pomocou Open Source nástrojov vybrané metódy WUM a analyzuje reálne získané dáta. 
+Charakter práce: preh¾adový.
+Požiadavky na obsah pod¾a charakteru práce (nemyslí sa tým šablóna, tá je daná bez oh¾adu na charakter práce): 
+minimálny poèet zdrojov (> 40 pre Bc.), kritické zhodnotenie v diskusii, resp. v samostatnej kapitole.
+Požiadavky na vedomosti a zruènosti študenta: analytické myslenie, skúsenosti s analýzou dát, anglický jazyk.   
