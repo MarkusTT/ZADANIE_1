@@ -1,11 +1,13 @@
-Web usage mining pomocou Open Source nástrojov
+Web usage mining pomocou Open Source nÃ¡strojov
 
-ANOTÁCIA
+ANOTÃCIA
 
-Cie¾ bakalárskej práce: autor sa zorientuje v dostupnıch monostiach Open Source nástrojov na web usage mining (WUM),
-tj. dolovanie dát o správaní sa pouívate¾ov webu. 
-S vyuitím reálnych dát aplikuje pomocou Open Source nástrojov vybrané metódy WUM a analyzuje reálne získané dáta. 
-Charakter práce: preh¾adovı.
-Poiadavky na obsah pod¾a charakteru práce (nemyslí sa tım šablóna, tá je daná bez oh¾adu na charakter práce): 
-minimálny poèet zdrojov (> 40 pre Bc.), kritické zhodnotenie v diskusii, resp. v samostatnej kapitole.
-Poiadavky na vedomosti a zruènosti študenta: analytické myslenie, skúsenosti s analızou dát, anglickı jazyk.   
+CieÄ¾ bakalÃ¡rskej prÃ¡ce: autor sa zorientuje vÂ dostupnÃ½ch moÅ¾nostiach Open Source nÃ¡strojov naÂ web usage mining (WUM),
+tj. dolovanie dÃ¡t oÂ sprÃ¡vanÃ­ sa pouÅ¾Ã­vateÄ¾ov webu. 
+SÂ vyuÅ¾itÃ­m reÃ¡lnych dÃ¡t aplikuje pomocou Open Source nÃ¡strojov vybranÃ© metÃ³dy WUM aÂ analyzuje reÃ¡lne zÃ­skanÃ© dÃ¡ta. 
+Charakter prÃ¡ce: prehÄ¾adovÃ½.
+PoÅ¾iadavky naÂ obsah podÄ¾a charakteru prÃ¡ce (nemyslÃ­ sa tÃ½m Å¡ablÃ³na, tÃ¡ je danÃ¡ bez ohÄ¾adu naÂ charakter prÃ¡ce): 
+minimÃ¡lny poÄet zdrojov (> 40 preÂ Bc.), kritickÃ© zhodnotenie vÂ diskusii, resp. vÂ samostatnej kapitole.
+PoÅ¾iadavky naÂ vedomosti aÂ zruÄnosti Å¡tudenta: analytickÃ© myslenie, skÃºsenosti sÂ analÃ½zou dÃ¡t, anglickÃ½ jazyk. 
+
+AkademickÃ½ rok prezentovania zÃ¡vereÄnej prÃ¡ce: 2020/2021
